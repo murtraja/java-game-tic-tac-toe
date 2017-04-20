@@ -1,0 +1,127 @@
++murtraja@MMRLZ50:~/Documents/importantAcademic/MMR/ttt/bin$ java game
+The game is initializing...
+
+ 1 | 2 | 3 
+---+---+---
+ 4 | 5 | 6 
+---+---+---
+ 7 | 8 | 9 
+
+Randomly deciding starting player...
+Computer's Chance
+The computer chose position 9
+   |   |   
+---+---+---
+   |   |   
+---+---+---
+   |   | C 
+
+User(U) , Enter your mark's positon: 1
+
+ U |   |   
+---+---+---
+   |   |   
+---+---+---
+   |   | C 
+
+Computer's Chance
+The computer chose position 7
+ U |   |   
+---+---+---
+   |   |   
+---+---+---
+ C |   | C 
+
+User(U) , Enter your mark's positon: 3
+
+ U |   | U 
+---+---+---
+   |   |   
+---+---+---
+ C |   | C 
+
+Computer's Chance
+The computer chose position 8
+ U |   | U 
+---+---+---
+   |   |   
+---+---+---
+ C | C | C 
+
+
+Computer Wins!
+
+Game Ends!
+Do you want to quit (Y) ? n
+The game is initializing...
+
+ 1 | 2 | 3 
+---+---+---
+ 4 | 5 | 6 
+---+---+---
+ 7 | 8 | 9 
+
+Randomly deciding starting player...
+Computer's Chance
+The computer chose position 3
+   |   | C 
+---+---+---
+   |   |   
+---+---+---
+   |   |   
+
+User(U) , Enter your mark's positon: 2
+
+   | U | C 
+---+---+---
+   |   |   
+---+---+---
+   |   |   
+
+Computer's Chance
+The computer chose position 9
+   | U | C 
+---+---+---
+   |   |   
+---+---+---
+   |   | C 
+
+User(U) , Enter your mark's positon: 6
+
+   | U | C 
+---+---+---
+   |   | U 
+---+---+---
+   |   | C 
+
+Computer's Chance
+The computer chose position 5
+   | U | C 
+---+---+---
+   | C | U 
+---+---+---
+   |   | C 
+
+User(U) , Enter your mark's positon: 1
+
+ U | U | C 
+---+---+---
+   | C | U 
+---+---+---
+   |   | C 
+
+Computer's Chance
+The computer chose position 7
+ U | U | C 
+---+---+---
+   | C | U 
+---+---+---
+ C |   | C 
+
+
+Computer Wins!
+
+Game Ends!
+Do you want to quit (Y) ? y
+
+Good Bye and Thank you!

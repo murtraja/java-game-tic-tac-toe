@@ -1,0 +1,13 @@
+A very old program that i found written by me
+
+You cannot win this, trust me!
+
+compile with $javac game.java
+
+and run with java game
+
+You can try, but you can't win.
+
+Don't remember most of the logic, but it checks for rules and gives counter measures for it.
+
+You can call it rule based intelligent game.
